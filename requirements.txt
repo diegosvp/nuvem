@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+python-telegram-bot
+requests
+numpy
+matplotlib
+ta
